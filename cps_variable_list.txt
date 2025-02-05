@@ -1,0 +1,34 @@
+The following variables, from 1994-2024, are used in the analysis. You can pull them from IPUMS CPS:
+
+year 
+serial
+month
+hwtfinl 
+cpsid 
+asecflag 
+mish 
+statefip 
+pernum 
+wtfinl 
+cpsidv 
+cpsidp 
+age 
+sex 
+race 
+marst 
+hispan 
+empstat 
+labforce 
+occ1950 
+ind1950 
+classwkr 
+uhrsworkt 
+uhrswork1 
+ahrswork1 
+empsame 
+educ earnwt 
+hourwage 
+paidhour 
+union 
+earnweek 
+uhrsworkorg
